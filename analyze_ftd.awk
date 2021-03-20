@@ -1,6 +1,6 @@
 #!/usr/bin/awk -f
 BEGIN {
-    FS="|"; HIGH=0; HIGH_TICKER="XXX"
+    FS="|"; HIGH=0; HIGH_TICKER=""
 }
 
 {
